@@ -1,21 +1,21 @@
 // --Pegar todos os personagens para verificação de quando o usuário passar o mouse sobre eles.
 
 const personagens = document.querySelectorAll('.personagem');
- 
+
 // --Adicionar a classe selecionado no personagem que o usuário passar sobre.
 
 personagens.forEach((personagem) => {
     personagem.addEventListener('mouseenter', () => {
 
-        if(window.innerwidth < 450) {
-            window.scrollTo({top: 0, behavior: 'smooth'});
+        if (window.innerwidth < 450) {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
 
         }
-        
+
         // --Verificar se já existe um personagem selecionado, se sim essa função abaixo irá removê-la.
 
         const personagemSelecionado = document.querySelector('.selecionado')
-         personagemSelecionado.classList.remove('selecionado');
+        personagemSelecionado.classList.remove('selecionado');
 
         personagem.classList.add('selecionado');
 

@@ -68,12 +68,12 @@ body::before {
     max-height: 530px;
 }
 
-.personagem-selecionado .personagem-grande { 
+.personagem-selecionado .personagem-grande {
     width: 430px;
     height: 430px;
 }
 
-.personagem-selecionado .nome-personagem { 
+.personagem-selecionado .nome-personagem {
     border-bottom: 2px solid #47f4ff;
     letter-spacing: 4px;
     text-transform: uppercase;
