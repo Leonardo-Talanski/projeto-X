@@ -1,1 +1,2 @@
-document.getElementById('ciclope')
+ const itemCiclope = document.getElementById('ciclope');
+ 
