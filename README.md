@@ -6,9 +6,9 @@ Projeto desenvolvido durante a Semana do Zero a Programador onde usando HTML, CS
 
 # Instruções 
 
-Aperte qualquer tecla para iniciar o jogo, o objetivo é pular sobre os canos e se encostar o jogo será reiniciado.
-
 Link do projeto : https://leonardo-talanski.github.io/projeto-X/
+
+Selecione ou passe por cada personagem para ver seu Nome, Descrição ou Imagem.
 
 # Status do Projeto :
 
