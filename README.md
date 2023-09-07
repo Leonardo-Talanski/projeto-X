@@ -10,7 +10,7 @@ Link do projeto : https://leonardo-talanski.github.io/projeto-X/
 
 Selecione ou passe por cada personagem para ver seu Nome, Descrição ou Imagem.
 
-# Status do Projeto :
+# Status do Projeto 
 
 ![Badge Concluido](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
